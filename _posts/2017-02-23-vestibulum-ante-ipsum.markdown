@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Vestibulum ante ipsum"
+title:  "ZEMAX OPITC STUDIO 17.5"
 description: Morbi hendrerit nisl odio, sit amet auctor magna efficitur id. Curabitur at sapien ullamcorper, laoreet lectus in, venenatis turpis.
 date:   2017-02-23
 categories: technology update
